@@ -4,16 +4,16 @@ Repo for [Animated video for storytelling](https://ire.org/events-and-training/e
 ## Useful shortcuts
 
 ### General
-| Use                    | Shortcut       |
-|------------------------|----------------|
-| New composition        | `ctrl + n`     |
-| Show/hide grid         | `ctrl + '`     |
-| RAM preview            | `space`        |
-| RAM preview with sound | `ctrl + space` |
-| Scrub to start         | `home`         |
-| Scrub to end           | `end`          |
-| Prev keyframe          | `j`            |
-| Next keyframe          | `k`            |
+| Use                    | Windows        | OS X           |
+|------------------------|----------------|----------------|
+| New composition        | `ctrl + n`     |`cmd + n`       |
+| Show/hide grid         | `ctrl + '`     |`cmd + '`       |
+| RAM preview            | `space`        |`space`         |
+| RAM preview with sound | `ctrl + space` |`cmd + space`   |
+| Scrub to start         | `home`         | `home`         |
+| Scrub to end           | `end`          | `end`          |
+| Prev keyframe          | `j`            |`j`             |
+| Next keyframe          | `k`            |`k`             |
 
 ### Transform properties
 | Property | Shortcut |
